@@ -1,0 +1,65 @@
+[
+  {
+    "id":"C01",
+    "org":"CTY",
+    "area":"Carlow",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":1170,
+    "person":"persons"
+  },
+  {
+    "id":"C02",
+    "org":"CTY",
+    "area":"Dublin City",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":12200,
+    "person":"persons"
+  },
+  {
+    "id":"C03",
+    "org":"CTY",
+    "area":"South Dublin",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":6680,
+    "person":"persons"
+  },
+  {
+    "id":"C04",
+    "org":"CTY",
+    "area":"Fingal",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":8520,
+    "person":"persons"
+  },
+  {
+    "id":"C05",
+    "org":"CTY",
+    "area":"DÃºn Laoghaire-Rathdown",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":8596,
+    "person":"persons"
+  },
+  {
+    "id":"C06",
+    "org":"CTY",
+    "area":"Kildare",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":6116,
+    "person":"persons"
+  },
+  {
+    "id":"C07",
+    "org":"CTY",
+    "area":"Kilkenny",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":2263,
+    "person":"persons"
+  }
+]
