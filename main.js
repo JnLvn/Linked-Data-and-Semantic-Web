@@ -49,8 +49,6 @@ db.each("SELECT * FROM occupation", function(err, row) {
 
 
 
-
-//var db2 = new sqlite3.Database(':memory:');
 db.serialize(function () {
   db.run('CREATE TABLE education (id1 TEXT, org TEXT, area TEXT, gender TEXT, edu TEXT, num1 TEXT, pop TEXT)');
   var stmt1 = db.prepare('INSERT INTO education (id1,org,area,gender,edu,num1,pop) VALUES (?,?,?,?,?,?,?)');
@@ -121,32 +119,55 @@ app.get('/occ', function (req, res) {
   });
 });
 
-// occ by num
-app.get('/occNum/:num', function (req, res) {
-  db.each("SELECT * FROM occupation WHERE num = " + req.params.num, function(err, row) {
-    numStr = new occObj (
-        row.id + " " + row.org + " " + row.area + " " + row.gender + " " + row.occ + " " + row.num + " " + row.person);
-    res.json(numStr);
+// occupation by occupation
+app.get('/occ/:occ', function (req, res) {
+  db.all("SELECT * FROM occupation WHERE occ = " + req.params.occ, function(err, row) {
+    var occStr = JSON.stringify(row, null, '\t');
+    res.sendStatus(occStr);
   });
 });
+
+// occ by area
+app.get('/occArea/:area', function (req, res) {
+  db.all("SELECT * FROM occupation WHERE area = " + req.params.area, function(err, row) {
+    var areaStr = JSON.stringify(row, null, '\t');
+    res.sendStatus(areaStr);
+  });
+});
+
+// edu by education
+app.get('/edu/:edu', function (req, res) {
+  db.all("SELECT * FROM education WHERE edu = " + req.params.edu, function(err, row) {
+    var  eduStr = JSON.stringify(row, null, '\t');
+    res.sendStatus(eduStr);
+  });
+});
+
+// edu by area
+app.get('/eduArea/:area', function (req, res) {
+  db.all("SELECT * FROM education WHERE area = " + req.params.area, function(err, row) {
+    var  eduStr = JSON.stringify(row, null, '\t');
+    res.sendStatus(eduStr);
+  });
+});
+
+// edu by gender
+app.get('/eduGen/:gender', function (req, res) {
+  db.all("SELECT * FROM education WHERE gender = " + req.params.gender, function(err, row) {
+    var  genStr = JSON.stringify(row, null, '\t');
+    res.sendStatus(genStr);
+  });
+});
+
 
 // test both tables
 app.get('/both', function (req, res) {
-  db.each("SELECT occupation.*, education.* FROM occupation INNER JOIN education ON occupation.id = education.id", function(err, row) {
-    var row2 = new occObj (
-        row.id + " " + row.org + " " + row.area + " " + row.gender + " " + row.occ + " " + row.num + " " + row.person);
-    res.json(row2);
+  db.all("SELECT * FROM occupation INNER JOIN education", function(err, row) {
+    var bothString = JSON.stringify(row, null, '\t');
+    res.sendStatus(bothString);
   });
 });
 
 
-  
-
-
-
-
-
-
-
 // Start the server.
-var server = app.listen(8000);
+var server = app.listen(8888);

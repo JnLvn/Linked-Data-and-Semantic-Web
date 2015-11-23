@@ -1,0 +1,4898 @@
+[
+  {
+    "id1":"C01",
+    "org":"CTY",
+    "area":"Carlow",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":391,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C02",
+    "org":"CTY",
+    "area":"Dublin City",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":2324,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C03",
+    "org":"CTY",
+    "area":"South Dublin",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":945,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C04",
+    "org":"CTY",
+    "area":"Fingal",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":770,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C05",
+    "org":"CTY",
+    "area":"DÃºn Laoghaire-Rathdown",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":425,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C06",
+    "org":"CTY",
+    "area":"Kildare",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":986,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C07",
+    "org":"CTY",
+    "area":"Kilkenny",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":467,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C08",
+    "org":"CTY",
+    "area":"Laois",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":468,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C09",
+    "org":"CTY",
+    "area":"Longford",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":293,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C10",
+    "org":"CTY",
+    "area":"Louth",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":807,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C11",
+    "org":"CTY",
+    "area":"Meath",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":746,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C12",
+    "org":"CTY",
+    "area":"Offaly",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":479,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C13",
+    "org":"CTY",
+    "area":"Westmeath",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":531,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C14",
+    "org":"CTY",
+    "area":"Wexford",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":720,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C15",
+    "org":"CTY",
+    "area":"Wicklow",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":678,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C16",
+    "org":"CTY",
+    "area":"Clare",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":482,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C17",
+    "org":"CTY",
+    "area":"Cork City",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":609,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C18",
+    "org":"CTY",
+    "area":"Cork",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":1566,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C19",
+    "org":"CTY",
+    "area":"Kerry",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":886,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C20",
+    "org":"CTY",
+    "area":"Limerick City",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":336,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C21",
+    "org":"CTY",
+    "area":"Limerick",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":737,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C22",
+    "org":"CTY",
+    "area":"Tipperary North",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":348,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C23",
+    "org":"CTY",
+    "area":"Tipperary South",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":483,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C24",
+    "org":"CTY",
+    "area":"Waterford City",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":217,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C25",
+    "org":"CTY",
+    "area":"Waterford",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":327,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C26",
+    "org":"CTY",
+    "area":"Galway City",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":311,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C27",
+    "org":"CTY",
+    "area":"Galway",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":1110,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C28",
+    "org":"CTY",
+    "area":"Leitrim",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":204,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C29",
+    "org":"CTY",
+    "area":"Mayo",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":905,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C30",
+    "org":"CTY",
+    "area":"Roscommon",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":419,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C31",
+    "org":"CTY",
+    "area":"Sligo",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":424,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C32",
+    "org":"CTY",
+    "area":"Cavan",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":621,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C33",
+    "org":"CTY",
+    "area":"Donegal",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":1691,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C34",
+    "org":"CTY",
+    "area":"Monaghan",
+    "gender":"male",
+    "edu":"No Formal Education",
+    "num1":380,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C01",
+    "org":"CTY",
+    "area":"Carlow",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":2820,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C02",
+    "org":"CTY",
+    "area":"Dublin City",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":25579,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C03",
+    "org":"CTY",
+    "area":"South Dublin",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":9972,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C04",
+    "org":"CTY",
+    "area":"Fingal",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":6480,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C05",
+    "org":"CTY",
+    "area":"DÃºn Laoghaire-Rathdown",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":4471,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C06",
+    "org":"CTY",
+    "area":"Kildare",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":7107,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C07",
+    "org":"CTY",
+    "area":"Kilkenny",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":4719,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C08",
+    "org":"CTY",
+    "area":"Laois",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":4048,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C09",
+    "org":"CTY",
+    "area":"Longford",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":2425,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C10",
+    "org":"CTY",
+    "area":"Louth",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":6159,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C11",
+    "org":"CTY",
+    "area":"Meath",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":7459,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C12",
+    "org":"CTY",
+    "area":"Offaly",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":4410,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C13",
+    "org":"CTY",
+    "area":"Westmeath",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":4137,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C14",
+    "org":"CTY",
+    "area":"Wexford",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":8950,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C15",
+    "org":"CTY",
+    "area":"Wicklow",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":5558,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C16",
+    "org":"CTY",
+    "area":"Clare",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":5578,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C17",
+    "org":"CTY",
+    "area":"Cork City",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":5705,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C18",
+    "org":"CTY",
+    "area":"Cork",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":15704,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C19",
+    "org":"CTY",
+    "area":"Kerry",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":8345,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C20",
+    "org":"CTY",
+    "area":"Limerick City",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":3093,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C21",
+    "org":"CTY",
+    "area":"Limerick",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":6225,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C22",
+    "org":"CTY",
+    "area":"Tipperary North",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":3684,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C23",
+    "org":"CTY",
+    "area":"Tipperary South",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":5021,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C24",
+    "org":"CTY",
+    "area":"Waterford City",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":2130,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C25",
+    "org":"CTY",
+    "area":"Waterford",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":3426,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C26",
+    "org":"CTY",
+    "area":"Galway City",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":1946,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C27",
+    "org":"CTY",
+    "area":"Galway",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":10708,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C28",
+    "org":"CTY",
+    "area":"Leitrim",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":2031,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C29",
+    "org":"CTY",
+    "area":"Mayo",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":9507,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C30",
+    "org":"CTY",
+    "area":"Roscommon",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":3985,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C31",
+    "org":"CTY",
+    "area":"Sligo",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":3289,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C32",
+    "org":"CTY",
+    "area":"Cavan",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":4761,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C33",
+    "org":"CTY",
+    "area":"Donegal",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":12886,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C34",
+    "org":"CTY",
+    "area":"Monaghan",
+    "gender":"male",
+    "edu":"Primary Education",
+    "num1":4212,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C01",
+    "org":"CTY",
+    "area":"Carlow",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":3737,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C02",
+    "org":"CTY",
+    "area":"Dublin City",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":25315,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C03",
+    "org":"CTY",
+    "area":"South Dublin",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":14227,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C04",
+    "org":"CTY",
+    "area":"Fingal",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":11209,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C05",
+    "org":"CTY",
+    "area":"DÃºn Laoghaire-Rathdown",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":5861,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C06",
+    "org":"CTY",
+    "area":"Kildare",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":11142,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C07",
+    "org":"CTY",
+    "area":"Kilkenny",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":6854,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C08",
+    "org":"CTY",
+    "area":"Laois",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":5482,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C09",
+    "org":"CTY",
+    "area":"Longford",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":2596,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C10",
+    "org":"CTY",
+    "area":"Louth",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":8245,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C11",
+    "org":"CTY",
+    "area":"Meath",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":11174,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C12",
+    "org":"CTY",
+    "area":"Offaly",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":5539,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C13",
+    "org":"CTY",
+    "area":"Westmeath",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":5397,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C14",
+    "org":"CTY",
+    "area":"Wexford",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":11026,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C15",
+    "org":"CTY",
+    "area":"Wicklow",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":7775,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C16",
+    "org":"CTY",
+    "area":"Clare",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":6884,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C17",
+    "org":"CTY",
+    "area":"Cork City",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":7153,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C18",
+    "org":"CTY",
+    "area":"Cork",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":23881,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C19",
+    "org":"CTY",
+    "area":"Kerry",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":9873,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C20",
+    "org":"CTY",
+    "area":"Limerick City",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":3708,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C21",
+    "org":"CTY",
+    "area":"Limerick",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":8207,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C22",
+    "org":"CTY",
+    "area":"Tipperary North",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":4962,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C23",
+    "org":"CTY",
+    "area":"Tipperary South",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":6738,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C24",
+    "org":"CTY",
+    "area":"Waterford City",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":3040,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C25",
+    "org":"CTY",
+    "area":"Waterford",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":4582,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C26",
+    "org":"CTY",
+    "area":"Galway City",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":2454,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C27",
+    "org":"CTY",
+    "area":"Galway",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":10425,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C28",
+    "org":"CTY",
+    "area":"Leitrim",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":2221,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C29",
+    "org":"CTY",
+    "area":"Mayo",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":8497,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C30",
+    "org":"CTY",
+    "area":"Roscommon",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":4569,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C31",
+    "org":"CTY",
+    "area":"Sligo",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":3936,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C32",
+    "org":"CTY",
+    "area":"Cavan",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":5167,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C33",
+    "org":"CTY",
+    "area":"Donegal",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":11106,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C34",
+    "org":"CTY",
+    "area":"Monaghan",
+    "gender":"male",
+    "edu":"Lower Secondary",
+    "num1":5210,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C01",
+    "org":"CTY",
+    "area":"Carlow",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":3089,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C02",
+    "org":"CTY",
+    "area":"Dublin City",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":27298,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C03",
+    "org":"CTY",
+    "area":"South Dublin",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":16471,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C04",
+    "org":"CTY",
+    "area":"Fingal",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":16694,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C05",
+    "org":"CTY",
+    "area":"DÃºn Laoghaire-Rathdown",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":11060,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C06",
+    "org":"CTY",
+    "area":"Kildare",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":12581,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C07",
+    "org":"CTY",
+    "area":"Kilkenny",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":5801,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C08",
+    "org":"CTY",
+    "area":"Laois",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":5225,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C09",
+    "org":"CTY",
+    "area":"Longford",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":2377,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C10",
+    "org":"CTY",
+    "area":"Louth",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":7225,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C11",
+    "org":"CTY",
+    "area":"Meath",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":11233,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C12",
+    "org":"CTY",
+    "area":"Offaly",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":4734,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C13",
+    "org":"CTY",
+    "area":"Westmeath",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":5349,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C14",
+    "org":"CTY",
+    "area":"Wexford",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":9227,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C15",
+    "org":"CTY",
+    "area":"Wicklow",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":8097,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C16",
+    "org":"CTY",
+    "area":"Clare",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":7786,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C17",
+    "org":"CTY",
+    "area":"Cork City",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":7195,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C18",
+    "org":"CTY",
+    "area":"Cork",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":24077,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C19",
+    "org":"CTY",
+    "area":"Kerry",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":9205,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C20",
+    "org":"CTY",
+    "area":"Limerick City",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":3729,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C21",
+    "org":"CTY",
+    "area":"Limerick",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":8160,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C22",
+    "org":"CTY",
+    "area":"Tipperary North",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":4848,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C23",
+    "org":"CTY",
+    "area":"Tipperary South",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":6035,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C24",
+    "org":"CTY",
+    "area":"Waterford City",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":2902,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C25",
+    "org":"CTY",
+    "area":"Waterford",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":4121,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C26",
+    "org":"CTY",
+    "area":"Galway City",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":4147,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C27",
+    "org":"CTY",
+    "area":"Galway",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":10732,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C28",
+    "org":"CTY",
+    "area":"Leitrim",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":1910,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C29",
+    "org":"CTY",
+    "area":"Mayo",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":9132,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C30",
+    "org":"CTY",
+    "area":"Roscommon",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":4483,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C31",
+    "org":"CTY",
+    "area":"Sligo",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":3903,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C32",
+    "org":"CTY",
+    "area":"Cavan",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":3893,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C33",
+    "org":"CTY",
+    "area":"Donegal",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":8745,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C34",
+    "org":"CTY",
+    "area":"Monaghan",
+    "gender":"male",
+    "edu":"Upper Secondary",
+    "num1":3378,
+    "pop":"Population aged 15 years and over"
+  },
+    {
+    "id1":"C01",
+    "org":"CTY",
+    "area":"Carlow",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":898,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C02",
+    "org":"CTY",
+    "area":"Dublin City",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":11828,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C03",
+    "org":"CTY",
+    "area":"South Dublin",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":5766,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C04",
+    "org":"CTY",
+    "area":"Fingal",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":7124,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C05",
+    "org":"CTY",
+    "area":"DÃºn Laoghaire-Rathdown",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":6364,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C06",
+    "org":"CTY",
+    "area":"Kildare",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":4854,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C07",
+    "org":"CTY",
+    "area":"Kilkenny",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":1754,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C08",
+    "org":"CTY",
+    "area":"Laois",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":1418,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C09",
+    "org":"CTY",
+    "area":"Longford",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":629,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C10",
+    "org":"CTY",
+    "area":"Louth",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":2310,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C11",
+    "org":"CTY",
+    "area":"Meath",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":4014,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C12",
+    "org":"CTY",
+    "area":"Offaly",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":1216,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C13",
+    "org":"CTY",
+    "area":"Westmeath",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":1705,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C14",
+    "org":"CTY",
+    "area":"Wexford",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":2340,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C15",
+    "org":"CTY",
+    "area":"Wicklow",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":3240,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C16",
+    "org":"CTY",
+    "area":"Clare",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":2695,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C17",
+    "org":"CTY",
+    "area":"Cork City",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":2563,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C18",
+    "org":"CTY",
+    "area":"Cork",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":9492,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C19",
+    "org":"CTY",
+    "area":"Kerry",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":3094,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C20",
+    "org":"CTY",
+    "area":"Limerick City",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":1018,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C21",
+    "org":"CTY",
+    "area":"Limerick",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":2995,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C22",
+    "org":"CTY",
+    "area":"Tipperary North",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":1343,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C23",
+    "org":"CTY",
+    "area":"Tipperary South",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":1583,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C24",
+    "org":"CTY",
+    "area":"Waterford City",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":876,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C25",
+    "org":"CTY",
+    "area":"Waterford",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":1342,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C26",
+    "org":"CTY",
+    "area":"Galway City",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":1984,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C27",
+    "org":"CTY",
+    "area":"Galway",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":3756,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C28",
+    "org":"CTY",
+    "area":"Leitrim",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":669,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C29",
+    "org":"CTY",
+    "area":"Mayo",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":2516,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C30",
+    "org":"CTY",
+    "area":"Roscommon",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":1206,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C31",
+    "org":"CTY",
+    "area":"Sligo",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":1382,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C32",
+    "org":"CTY",
+    "area":"Cavan",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":1144,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C33",
+    "org":"CTY",
+    "area":"Donegal",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":2420,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C34",
+    "org":"CTY",
+    "area":"Monaghan",
+    "gender":"male",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":922,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C01",
+    "org":"CTY",
+    "area":"Carlow",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":994,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C02",
+    "org":"CTY",
+    "area":"Dublin City",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":20034,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C03",
+    "org":"CTY",
+    "area":"South Dublin",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":6977,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C04",
+    "org":"CTY",
+    "area":"Fingal",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":9220,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C05",
+    "org":"CTY",
+    "area":"DÃºn Laoghaire-Rathdown",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":11477,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C06",
+    "org":"CTY",
+    "area":"Kildare",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":5733,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C07",
+    "org":"CTY",
+    "area":"Kilkenny",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":2101,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C08",
+    "org":"CTY",
+    "area":"Laois",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":1414,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C09",
+    "org":"CTY",
+    "area":"Longford",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":647,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C10",
+    "org":"CTY",
+    "area":"Louth",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":2484,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C11",
+    "org":"CTY",
+    "area":"Meath",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":4228,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C12",
+    "org":"CTY",
+    "area":"Offaly",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":1145,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C13",
+    "org":"CTY",
+    "area":"Westmeath",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":1845,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C14",
+    "org":"CTY",
+    "area":"Wexford",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":2377,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C15",
+    "org":"CTY",
+    "area":"Wicklow",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":3670,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C16",
+    "org":"CTY",
+    "area":"Clare",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":2625,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C17",
+    "org":"CTY",
+    "area":"Cork City",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":3197,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C18",
+    "org":"CTY",
+    "area":"Cork",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":10712,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C19",
+    "org":"CTY",
+    "area":"Kerry",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":3011,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C20",
+    "org":"CTY",
+    "area":"Limerick City",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":1187,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C21",
+    "org":"CTY",
+    "area":"Limerick",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":3386,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C22",
+    "org":"CTY",
+    "area":"Tipperary North",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":1286,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C23",
+    "org":"CTY",
+    "area":"Tipperary South",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":1407,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C24",
+    "org":"CTY",
+    "area":"Waterford City",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":1044,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C25",
+    "org":"CTY",
+    "area":"Waterford",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":1516,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C26",
+    "org":"CTY",
+    "area":"Galway City",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":2631,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C27",
+    "org":"CTY",
+    "area":"Galway",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":3933,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C28",
+    "org":"CTY",
+    "area":"Leitrim",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":611,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C29",
+    "org":"CTY",
+    "area":"Mayo",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":2453,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C30",
+    "org":"CTY",
+    "area":"Roscommon",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":1263,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C31",
+    "org":"CTY",
+    "area":"Sligo",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":1431,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C32",
+    "org":"CTY",
+    "area":"Cavan",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":1134,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C33",
+    "org":"CTY",
+    "area":"Donegal",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":2850,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C34",
+    "org":"CTY",
+    "area":"Monaghan",
+    "gender":"male",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":939,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C01",
+    "org":"CTY",
+    "area":"Carlow",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":621,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C02",
+    "org":"CTY",
+    "area":"Dublin City",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":18522,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C03",
+    "org":"CTY",
+    "area":"South Dublin",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":5243,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C04",
+    "org":"CTY",
+    "area":"Fingal",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":7232,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C05",
+    "org":"CTY",
+    "area":"DÃºn Laoghaire-Rathdown",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":10449,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C06",
+    "org":"CTY",
+    "area":"Kildare",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":4429,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C07",
+    "org":"CTY",
+    "area":"Kilkenny",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":1367,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C08",
+    "org":"CTY",
+    "area":"Laois",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":861,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C09",
+    "org":"CTY",
+    "area":"Longford",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":376,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C10",
+    "org":"CTY",
+    "area":"Louth",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":1804,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C11",
+    "org":"CTY",
+    "area":"Meath",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":2969,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C12",
+    "org":"CTY",
+    "area":"Offaly",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":804,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C13",
+    "org":"CTY",
+    "area":"Westmeath",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":1265,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C14",
+    "org":"CTY",
+    "area":"Wexford",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":1527,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C15",
+    "org":"CTY",
+    "area":"Wicklow",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":2864,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C16",
+    "org":"CTY",
+    "area":"Clare",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":1889,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C17",
+    "org":"CTY",
+    "area":"Cork City",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":2764,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C18",
+    "org":"CTY",
+    "area":"Cork",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":7416,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C19",
+    "org":"CTY",
+    "area":"Kerry",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":1979,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C20",
+    "org":"CTY",
+    "area":"Limerick City",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":844,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C21",
+    "org":"CTY",
+    "area":"Limerick",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":2271,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C22",
+    "org":"CTY",
+    "area":"Tipperary North",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":926,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C23",
+    "org":"CTY",
+    "area":"Tipperary South",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":982,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C24",
+    "org":"CTY",
+    "area":"Waterford City",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":772,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C25",
+    "org":"CTY",
+    "area":"Waterford",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":1044,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C26",
+    "org":"CTY",
+    "area":"Galway City",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":2492,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C27",
+    "org":"CTY",
+    "area":"Galway",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":3274,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C28",
+    "org":"CTY",
+    "area":"Leitrim",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":404,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C29",
+    "org":"CTY",
+    "area":"Mayo",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":1639,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C30",
+    "org":"CTY",
+    "area":"Roscommon",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":791,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C31",
+    "org":"CTY",
+    "area":"Sligo",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":1113,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C32",
+    "org":"CTY",
+    "area":"Cavan",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":712,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C33",
+    "org":"CTY",
+    "area":"Donegal",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":2095,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C34",
+    "org":"CTY",
+    "area":"Monaghan",
+    "gender":"male",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":555,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C01",
+    "org":"CTY",
+    "area":"Carlow",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":72,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C02",
+    "org":"CTY",
+    "area":"Dublin City",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":2655,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C03",
+    "org":"CTY",
+    "area":"South Dublin",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":606,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C04",
+    "org":"CTY",
+    "area":"Fingal",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":846,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C05",
+    "org":"CTY",
+    "area":"DÃºn Laoghaire-Rathdown",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":1749,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C06",
+    "org":"CTY",
+    "area":"Kildare",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":542,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C07",
+    "org":"CTY",
+    "area":"Kilkenny",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":98,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C08",
+    "org":"CTY",
+    "area":"Laois",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":73,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C09",
+    "org":"CTY",
+    "area":"Longford",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":41,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C10",
+    "org":"CTY",
+    "area":"Louth",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":172,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C11",
+    "org":"CTY",
+    "area":"Meath",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":324,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C12",
+    "org":"CTY",
+    "area":"Offaly",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":60,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C13",
+    "org":"CTY",
+    "area":"Westmeath",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":144,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C14",
+    "org":"CTY",
+    "area":"Wexford",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":166,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C15",
+    "org":"CTY",
+    "area":"Wicklow",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":424,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C16",
+    "org":"CTY",
+    "area":"Clare",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":240,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C17",
+    "org":"CTY",
+    "area":"Cork City",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":565,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C18",
+    "org":"CTY",
+    "area":"Cork",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":1178,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C19",
+    "org":"CTY",
+    "area":"Kerry",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":209,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C20",
+    "org":"CTY",
+    "area":"Limerick City",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":151,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C21",
+    "org":"CTY",
+    "area":"Limerick",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":344,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C22",
+    "org":"CTY",
+    "area":"Tipperary North",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":121,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C23",
+    "org":"CTY",
+    "area":"Tipperary South",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":118,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C24",
+    "org":"CTY",
+    "area":"Waterford City",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":97,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C25",
+    "org":"CTY",
+    "area":"Waterford",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":148,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C26",
+    "org":"CTY",
+    "area":"Galway City",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":575,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C27",
+    "org":"CTY",
+    "area":"Galway",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":567,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C28",
+    "org":"CTY",
+    "area":"Leitrim",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":37,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C29",
+    "org":"CTY",
+    "area":"Mayo",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":174,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C30",
+    "org":"CTY",
+    "area":"Roscommon",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":77,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C31",
+    "org":"CTY",
+    "area":"Sligo",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":141,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C32",
+    "org":"CTY",
+    "area":"Cavan",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":56,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C33",
+    "org":"CTY",
+    "area":"Donegal",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":215,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C34",
+    "org":"CTY",
+    "area":"Monaghan",
+    "gender":"male",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":33,
+    "pop":"Population aged 15 years and over"
+  },
+    {
+    "id1":"C01",
+    "org":"CTY",
+    "area":"Carlow",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":293,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C02",
+    "org":"CTY",
+    "area":"Dublin City",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":2311,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C03",
+    "org":"CTY",
+    "area":"South Dublin",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":999,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C04",
+    "org":"CTY",
+    "area":"Fingal",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":927,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C05",
+    "org":"CTY",
+    "area":"DÃºn Laoghaire-Rathdown",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":497,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C06",
+    "org":"CTY",
+    "area":"Kildare",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":769,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C07",
+    "org":"CTY",
+    "area":"Kilkenny",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":379,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C08",
+    "org":"CTY",
+    "area":"Laois",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":333,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C09",
+    "org":"CTY",
+    "area":"Longford",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":240,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C10",
+    "org":"CTY",
+    "area":"Louth",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":589,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C11",
+    "org":"CTY",
+    "area":"Meath",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":599,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C12",
+    "org":"CTY",
+    "area":"Offaly",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":432,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C13",
+    "org":"CTY",
+    "area":"Westmeath",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":407,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C14",
+    "org":"CTY",
+    "area":"Wexford",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":675,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C15",
+    "org":"CTY",
+    "area":"Wicklow",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":516,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C16",
+    "org":"CTY",
+    "area":"Clare",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":382,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C17",
+    "org":"CTY",
+    "area":"Cork City",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":614,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C18",
+    "org":"CTY",
+    "area":"Cork",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":1172,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C19",
+    "org":"CTY",
+    "area":"Kerry",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":621,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C20",
+    "org":"CTY",
+    "area":"Limerick City",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":296,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C21",
+    "org":"CTY",
+    "area":"Limerick",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":565,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C22",
+    "org":"CTY",
+    "area":"Tipperary North",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":278,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C23",
+    "org":"CTY",
+    "area":"Tipperary South",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":371,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C24",
+    "org":"CTY",
+    "area":"Waterford City",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":217,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C25",
+    "org":"CTY",
+    "area":"Waterford",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":260,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C26",
+    "org":"CTY",
+    "area":"Galway City",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":240,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C27",
+    "org":"CTY",
+    "area":"Galway",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":728,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C28",
+    "org":"CTY",
+    "area":"Leitrim",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":149,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C29",
+    "org":"CTY",
+    "area":"Mayo",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":667,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C30",
+    "org":"CTY",
+    "area":"Roscommon",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":300,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C31",
+    "org":"CTY",
+    "area":"Sligo",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":429,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C32",
+    "org":"CTY",
+    "area":"Cavan",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":419,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C33",
+    "org":"CTY",
+    "area":"Donegal",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":1322,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C34",
+    "org":"CTY",
+    "area":"Monaghan",
+    "gender":"female",
+    "edu":"No Formal Education",
+    "num1":305,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C01",
+    "org":"CTY",
+    "area":"Carlow",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":2244,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C02",
+    "org":"CTY",
+    "area":"Dublin City",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":31238,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C03",
+    "org":"CTY",
+    "area":"South Dublin",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":12218,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C04",
+    "org":"CTY",
+    "area":"Fingal",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":7068,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C05",
+    "org":"CTY",
+    "area":"DÃºn Laoghaire-Rathdown",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":5624,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C06",
+    "org":"CTY",
+    "area":"Kildare",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":6672,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C07",
+    "org":"CTY",
+    "area":"Kilkenny",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":3631,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C08",
+    "org":"CTY",
+    "area":"Laois",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":3092,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C09",
+    "org":"CTY",
+    "area":"Longford",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":1925,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C10",
+    "org":"CTY",
+    "area":"Louth",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":6602,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C11",
+    "org":"CTY",
+    "area":"Meath",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":6269,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C12",
+    "org":"CTY",
+    "area":"Offaly",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":3633,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C13",
+    "org":"CTY",
+    "area":"Westmeath",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":3641,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C14",
+    "org":"CTY",
+    "area":"Wexford",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":7639,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C15",
+    "org":"CTY",
+    "area":"Wicklow",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":5305,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C16",
+    "org":"CTY",
+    "area":"Clare",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":4341,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C17",
+    "org":"CTY",
+    "area":"Cork City",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":6387,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C18",
+    "org":"CTY",
+    "area":"Cork",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":13482,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C19",
+    "org":"CTY",
+    "area":"Kerry",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":6504,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C20",
+    "org":"CTY",
+    "area":"Limerick City",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":3293,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C21",
+    "org":"CTY",
+    "area":"Limerick",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":5042,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C22",
+    "org":"CTY",
+    "area":"Tipperary North",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":2834,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C23",
+    "org":"CTY",
+    "area":"Tipperary South",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":3892,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C24",
+    "org":"CTY",
+    "area":"Waterford City",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":2344,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C25",
+    "org":"CTY",
+    "area":"Waterford",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":2684,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C26",
+    "org":"CTY",
+    "area":"Galway City",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":1824,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C27",
+    "org":"CTY",
+    "area":"Galway",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":7394,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C28",
+    "org":"CTY",
+    "area":"Leitrim",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":1400,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C29",
+    "org":"CTY",
+    "area":"Mayo",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":7115,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C30",
+    "org":"CTY",
+    "area":"Roscommon",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":2818,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C31",
+    "org":"CTY",
+    "area":"Sligo",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":2598,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C32",
+    "org":"CTY",
+    "area":"Cavan",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":3409,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C33",
+    "org":"CTY",
+    "area":"Donegal",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":10462,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C34",
+    "org":"CTY",
+    "area":"Monaghan",
+    "gender":"female",
+    "edu":"Primary Education",
+    "num1":3355,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C01",
+    "org":"CTY",
+    "area":"Carlow",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":2926,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C02",
+    "org":"CTY",
+    "area":"Dublin City",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":25525,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C03",
+    "org":"CTY",
+    "area":"South Dublin",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":14396,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C04",
+    "org":"CTY",
+    "area":"Fingal",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":11245,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C05",
+    "org":"CTY",
+    "area":"DÃºn Laoghaire-Rathdown",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":7618,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C06",
+    "org":"CTY",
+    "area":"Kildare",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":9598,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C07",
+    "org":"CTY",
+    "area":"Kilkenny",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":5337,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C08",
+    "org":"CTY",
+    "area":"Laois",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":4107,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C09",
+    "org":"CTY",
+    "area":"Longford",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":1919,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C10",
+    "org":"CTY",
+    "area":"Louth",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":7067,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C11",
+    "org":"CTY",
+    "area":"Meath",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":9072,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C12",
+    "org":"CTY",
+    "area":"Offaly",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":4458,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C13",
+    "org":"CTY",
+    "area":"Westmeath",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":4383,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C14",
+    "org":"CTY",
+    "area":"Wexford",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":9094,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C15",
+    "org":"CTY",
+    "area":"Wicklow",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":6821,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C16",
+    "org":"CTY",
+    "area":"Clare",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":5688,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C17",
+    "org":"CTY",
+    "area":"Cork City",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":7843,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C18",
+    "org":"CTY",
+    "area":"Cork",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":19557,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C19",
+    "org":"CTY",
+    "area":"Kerry",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":7787,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C20",
+    "org":"CTY",
+    "area":"Limerick City",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":3738,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C21",
+    "org":"CTY",
+    "area":"Limerick",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":6859,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C22",
+    "org":"CTY",
+    "area":"Tipperary North",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":3934,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C23",
+    "org":"CTY",
+    "area":"Tipperary South",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":5432,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C24",
+    "org":"CTY",
+    "area":"Waterford City",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":3047,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C25",
+    "org":"CTY",
+    "area":"Waterford",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":3458,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C26",
+    "org":"CTY",
+    "area":"Galway City",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":2463,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C27",
+    "org":"CTY",
+    "area":"Galway",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":7734,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C28",
+    "org":"CTY",
+    "area":"Leitrim",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":1611,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C29",
+    "org":"CTY",
+    "area":"Mayo",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":6673,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C30",
+    "org":"CTY",
+    "area":"Roscommon",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":3309,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C31",
+    "org":"CTY",
+    "area":"Sligo",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":2990,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C32",
+    "org":"CTY",
+    "area":"Cavan",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":3695,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C33",
+    "org":"CTY",
+    "area":"Donegal",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":8416,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C34",
+    "org":"CTY",
+    "area":"Monaghan",
+    "gender":"female",
+    "edu":"Lower Secondary",
+    "num1":3497,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C01",
+    "org":"CTY",
+    "area":"Carlow",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":3628,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C02",
+    "org":"CTY",
+    "area":"Dublin City",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":31608,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C03",
+    "org":"CTY",
+    "area":"South Dublin",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":20101,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C04",
+    "org":"CTY",
+    "area":"Fingal",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":20302,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C05",
+    "org":"CTY",
+    "area":"DÃºn Laoghaire-Rathdown",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":14711,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C06",
+    "org":"CTY",
+    "area":"Kildare",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":15289,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C07",
+    "org":"CTY",
+    "area":"Kilkenny",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":6987,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C08",
+    "org":"CTY",
+    "area":"Laois",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":5966,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C09",
+    "org":"CTY",
+    "area":"Longford",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":2782,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C10",
+    "org":"CTY",
+    "area":"Louth",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":8123,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C11",
+    "org":"CTY",
+    "area":"Meath",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":13883,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C12",
+    "org":"CTY",
+    "area":"Offaly",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":5780,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C13",
+    "org":"CTY",
+    "area":"Westmeath",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":6276,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C14",
+    "org":"CTY",
+    "area":"Wexford",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":10971,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C15",
+    "org":"CTY",
+    "area":"Wicklow",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":9554,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C16",
+    "org":"CTY",
+    "area":"Clare",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":8882,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C17",
+    "org":"CTY",
+    "area":"Cork City",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":8048,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C18",
+    "org":"CTY",
+    "area":"Cork",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":29222,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C19",
+    "org":"CTY",
+    "area":"Kerry",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":11089,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C20",
+    "org":"CTY",
+    "area":"Limerick City",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":4285,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C21",
+    "org":"CTY",
+    "area":"Limerick",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":9932,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C22",
+    "org":"CTY",
+    "area":"Tipperary North",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":5567,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C23",
+    "org":"CTY",
+    "area":"Tipperary South",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":7088,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C24",
+    "org":"CTY",
+    "area":"Waterford City",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":3265,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C25",
+    "org":"CTY",
+    "area":"Waterford",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":4970,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C26",
+    "org":"CTY",
+    "area":"Galway City",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":4619,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C27",
+    "org":"CTY",
+    "area":"Galway",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":12754,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C28",
+    "org":"CTY",
+    "area":"Leitrim",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":2201,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C29",
+    "org":"CTY",
+    "area":"Mayo",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":10697,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C30",
+    "org":"CTY",
+    "area":"Roscommon",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":5203,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C31",
+    "org":"CTY",
+    "area":"Sligo",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":4687,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C32",
+    "org":"CTY",
+    "area":"Cavan",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":4779,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C33",
+    "org":"CTY",
+    "area":"Donegal",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":9548,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C34",
+    "org":"CTY",
+    "area":"Monaghan",
+    "gender":"female",
+    "edu":"Upper Secondary",
+    "num1":3859,
+    "pop":"Population aged 15 years and over"
+  },
+    {
+    "id1":"C01",
+    "org":"CTY",
+    "area":"Carlow",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":1204,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C02",
+    "org":"CTY",
+    "area":"Dublin City",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":13329,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C03",
+    "org":"CTY",
+    "area":"South Dublin",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":6557,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C04",
+    "org":"CTY",
+    "area":"Fingal",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":8081,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C05",
+    "org":"CTY",
+    "area":"DÃºn Laoghaire-Rathdown",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":7444,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C06",
+    "org":"CTY",
+    "area":"Kildare",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":5800,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C07",
+    "org":"CTY",
+    "area":"Kilkenny",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":2564,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C08",
+    "org":"CTY",
+    "area":"Laois",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":1880,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C09",
+    "org":"CTY",
+    "area":"Longford",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":902,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C10",
+    "org":"CTY",
+    "area":"Louth",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":2938,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C11",
+    "org":"CTY",
+    "area":"Meath",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":5023,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C12",
+    "org":"CTY",
+    "area":"Offaly",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":1755,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C13",
+    "org":"CTY",
+    "area":"Westmeath",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":2194,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C14",
+    "org":"CTY",
+    "area":"Wexford",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":3376,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C15",
+    "org":"CTY",
+    "area":"Wicklow",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":3956,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C16",
+    "org":"CTY",
+    "area":"Clare",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":3449,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C17",
+    "org":"CTY",
+    "area":"Cork City",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":2974,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C18",
+    "org":"CTY",
+    "area":"Cork",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":11829,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C19",
+    "org":"CTY",
+    "area":"Kerry",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":4298,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C20",
+    "org":"CTY",
+    "area":"Limerick City",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":1131,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C21",
+    "org":"CTY",
+    "area":"Limerick",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":3910,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C22",
+    "org":"CTY",
+    "area":"Tipperary North",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":1710,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C23",
+    "org":"CTY",
+    "area":"Tipperary South",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":2153,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C24",
+    "org":"CTY",
+    "area":"Waterford City",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":945,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C25",
+    "org":"CTY",
+    "area":"Waterford",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":1733,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C26",
+    "org":"CTY",
+    "area":"Galway City",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":2504,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C27",
+    "org":"CTY",
+    "area":"Galway",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":5224,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C28",
+    "org":"CTY",
+    "area":"Leitrim",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":865,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C29",
+    "org":"CTY",
+    "area":"Mayo",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":3450,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C30",
+    "org":"CTY",
+    "area":"Roscommon",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":1658,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C31",
+    "org":"CTY",
+    "area":"Sligo",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":1947,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C32",
+    "org":"CTY",
+    "area":"Cavan",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":1633,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C33",
+    "org":"CTY",
+    "area":"Donegal",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":3681,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C34",
+    "org":"CTY",
+    "area":"Monaghan",
+    "gender":"female",
+    "edu":"Ordinary Bachelor Degree or National Diploma",
+    "num1":1420,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C01",
+    "org":"CTY",
+    "area":"Carlow",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":1382,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C02",
+    "org":"CTY",
+    "area":"Dublin City",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":22207,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C03",
+    "org":"CTY",
+    "area":"South Dublin",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":8030,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C04",
+    "org":"CTY",
+    "area":"Fingal",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":10200,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C05",
+    "org":"CTY",
+    "area":"DÃºn Laoghaire-Rathdown",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":11072,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C06",
+    "org":"CTY",
+    "area":"Kildare",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":6987,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C07",
+    "org":"CTY",
+    "area":"Kilkenny",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":3123,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C08",
+    "org":"CTY",
+    "area":"Laois",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":2232,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C09",
+    "org":"CTY",
+    "area":"Longford",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":941,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C10",
+    "org":"CTY",
+    "area":"Louth",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":3323,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C11",
+    "org":"CTY",
+    "area":"Meath",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":5471,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C12",
+    "org":"CTY",
+    "area":"Offaly",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":1805,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C13",
+    "org":"CTY",
+    "area":"Westmeath",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":2471,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C14",
+    "org":"CTY",
+    "area":"Wexford",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":3631,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C15",
+    "org":"CTY",
+    "area":"Wicklow",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":4386,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C16",
+    "org":"CTY",
+    "area":"Clare",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":3486,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C17",
+    "org":"CTY",
+    "area":"Cork City",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":3548,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C18",
+    "org":"CTY",
+    "area":"Cork",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":13391,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C19",
+    "org":"CTY",
+    "area":"Kerry",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":4219,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C20",
+    "org":"CTY",
+    "area":"Limerick City",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":1248,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C21",
+    "org":"CTY",
+    "area":"Limerick",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":4046,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C22",
+    "org":"CTY",
+    "area":"Tipperary North",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":1978,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C23",
+    "org":"CTY",
+    "area":"Tipperary South",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":2267,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C24",
+    "org":"CTY",
+    "area":"Waterford City",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":1327,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C25",
+    "org":"CTY",
+    "area":"Waterford",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":2124,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C26",
+    "org":"CTY",
+    "area":"Galway City",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":3280,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C27",
+    "org":"CTY",
+    "area":"Galway",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":5597,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C28",
+    "org":"CTY",
+    "area":"Leitrim",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":923,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C29",
+    "org":"CTY",
+    "area":"Mayo",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":3754,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C30",
+    "org":"CTY",
+    "area":"Roscommon",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":1866,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C31",
+    "org":"CTY",
+    "area":"Sligo",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":2089,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C32",
+    "org":"CTY",
+    "area":"Cavan",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":1897,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C33",
+    "org":"CTY",
+    "area":"Donegal",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":4389,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C34",
+    "org":"CTY",
+    "area":"Monaghan",
+    "gender":"female",
+    "edu":"Honours Bachelor Degree, Professional Qualification or both",
+    "num1":1649,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C01",
+    "org":"CTY",
+    "area":"Carlow",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":1133,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C02",
+    "org":"CTY",
+    "area":"Dublin City",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":22849,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C03",
+    "org":"CTY",
+    "area":"South Dublin",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":6652,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C04",
+    "org":"CTY",
+    "area":"Fingal",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":8849,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C05",
+    "org":"CTY",
+    "area":"DÃºn Laoghaire-Rathdown",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":11535,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C06",
+    "org":"CTY",
+    "area":"Kildare",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":5865,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C07",
+    "org":"CTY",
+    "area":"Kilkenny",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":2223,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C08",
+    "org":"CTY",
+    "area":"Laois",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":1513,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C09",
+    "org":"CTY",
+    "area":"Longford",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":651,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C10",
+    "org":"CTY",
+    "area":"Louth",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":2507,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C11",
+    "org":"CTY",
+    "area":"Meath",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":4358,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C12",
+    "org":"CTY",
+    "area":"Offaly",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":1362,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C13",
+    "org":"CTY",
+    "area":"Westmeath",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":2015,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C14",
+    "org":"CTY",
+    "area":"Wexford",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":2582,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C15",
+    "org":"CTY",
+    "area":"Wicklow",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":3736,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C16",
+    "org":"CTY",
+    "area":"Clare",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":2991,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C17",
+    "org":"CTY",
+    "area":"Cork City",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":3603,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C18",
+    "org":"CTY",
+    "area":"Cork",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":11526,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C19",
+    "org":"CTY",
+    "area":"Kerry",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":3154,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C20",
+    "org":"CTY",
+    "area":"Limerick City",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":1113,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C21",
+    "org":"CTY",
+    "area":"Limerick",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":3328,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C22",
+    "org":"CTY",
+    "area":"Tipperary North",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":1436,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C23",
+    "org":"CTY",
+    "area":"Tipperary South",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":1609,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C24",
+    "org":"CTY",
+    "area":"Waterford City",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":945,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C25",
+    "org":"CTY",
+    "area":"Waterford",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":1569,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C26",
+    "org":"CTY",
+    "area":"Galway City",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":3578,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C27",
+    "org":"CTY",
+    "area":"Galway",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":5209,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C28",
+    "org":"CTY",
+    "area":"Leitrim",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":778,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C29",
+    "org":"CTY",
+    "area":"Mayo",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":2806,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C30",
+    "org":"CTY",
+    "area":"Roscommon",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":1374,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C31",
+    "org":"CTY",
+    "area":"Sligo",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":1727,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C32",
+    "org":"CTY",
+    "area":"Cavan",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":1294,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C33",
+    "org":"CTY",
+    "area":"Donegal",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":3489,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C34",
+    "org":"CTY",
+    "area":"Monaghan",
+    "gender":"female",
+    "edu":"Postgraduate Diploma or Degree",
+    "num1":1090,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C01",
+    "org":"CTY",
+    "area":"Carlow",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":58,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C02",
+    "org":"CTY",
+    "area":"Dublin City",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":1981,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C03",
+    "org":"CTY",
+    "area":"South Dublin",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":424,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C04",
+    "org":"CTY",
+    "area":"Fingal",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":577,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C05",
+    "org":"CTY",
+    "area":"DÃºn Laoghaire-Rathdown",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":1110,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C06",
+    "org":"CTY",
+    "area":"Kildare",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":378,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C07",
+    "org":"CTY",
+    "area":"Kilkenny",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":85,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C08",
+    "org":"CTY",
+    "area":"Laois",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":56,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C09",
+    "org":"CTY",
+    "area":"Longford",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":24,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C10",
+    "org":"CTY",
+    "area":"Louth",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":119,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C11",
+    "org":"CTY",
+    "area":"Meath",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":223,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C12",
+    "org":"CTY",
+    "area":"Offaly",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":56,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C13",
+    "org":"CTY",
+    "area":"Westmeath",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":81,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C14",
+    "org":"CTY",
+    "area":"Wexford",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":109,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C15",
+    "org":"CTY",
+    "area":"Wicklow",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":265,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C16",
+    "org":"CTY",
+    "area":"Clare",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":158,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C17",
+    "org":"CTY",
+    "area":"Cork City",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":337,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C18",
+    "org":"CTY",
+    "area":"Cork",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":809,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C19",
+    "org":"CTY",
+    "area":"Kerry",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":138,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C20",
+    "org":"CTY",
+    "area":"Limerick City",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":78,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C21",
+    "org":"CTY",
+    "area":"Limerick",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":235,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C22",
+    "org":"CTY",
+    "area":"Tipperary North",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":108,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C23",
+    "org":"CTY",
+    "area":"Tipperary South",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":74,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C24",
+    "org":"CTY",
+    "area":"Waterford City",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":49,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C25",
+    "org":"CTY",
+    "area":"Waterford",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":92,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C26",
+    "org":"CTY",
+    "area":"Galway City",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":366,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C27",
+    "org":"CTY",
+    "area":"Galway",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":386,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C28",
+    "org":"CTY",
+    "area":"Leitrim",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":39,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C29",
+    "org":"CTY",
+    "area":"Mayo",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":126,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C30",
+    "org":"CTY",
+    "area":"Roscommon",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":63,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C31",
+    "org":"CTY",
+    "area":"Sligo",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":119,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C32",
+    "org":"CTY",
+    "area":"Cavan",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":50,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C33",
+    "org":"CTY",
+    "area":"Donegal",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":151,
+    "pop":"Population aged 15 years and over"
+  },
+  {
+    "id1":"C34",
+    "org":"CTY",
+    "area":"Monaghan",
+    "gender":"female",
+    "edu":"Doctorate(Ph.D) or higher",
+    "num1":28,
+    "pop":"Population aged 15 years and over"
+  }
+]

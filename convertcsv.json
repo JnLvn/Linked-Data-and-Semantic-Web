@@ -16,6 +16,7 @@
     "occ":"Managers, Directors and Senior Officials",
     "num":12200,
     "person":"persons"
+      
   },
   {
     "id":"C03",
@@ -60,6 +61,2391 @@
     "gender":"male",
     "occ":"Managers, Directors and Senior Officials",
     "num":2263,
+    "person":"persons"
+  },
+    {
+    "id":"C08",
+    "org":"CTY",
+    "area":"Laois",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":1684,
+    "person":"persons"
+  },
+  {
+    "id":"C09",
+    "org":"CTY",
+    "area":"Longford",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":742,
+    "person":"persons"
+  },
+  {
+    "id":"C10",
+    "org":"CTY",
+    "area":"Louth",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":2781,
+    "person":"persons"
+  },
+  {
+    "id":"C11",
+    "org":"CTY",
+    "area":"Meath",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":5181,
+    "person":"persons"
+  },
+  {
+    "id":"C12",
+    "org":"CTY",
+    "area":"Offaly",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":1534,
+    "person":"persons"
+  },
+  {
+    "id":"C13",
+    "org":"CTY",
+    "area":"Westmeath",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":1945,
+    "person":"persons"
+  },
+  {
+    "id":"C14",
+    "org":"CTY",
+    "area":"Wexford",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":3145,
+    "person":"persons"
+  },
+  {
+    "id":"C15",
+    "org":"CTY",
+    "area":"Wicklow",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":4033,
+    "person":"persons"
+  },
+  {
+    "id":"C16",
+    "org":"CTY",
+    "area":"Clare",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":2562,
+    "person":"persons"
+  },
+  {
+    "id":"C17",
+    "org":"CTY",
+    "area":"Cork City",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":1982,
+    "person":"persons"
+  },
+  {
+    "id":"C18",
+    "org":"CTY",
+    "area":"Cork",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":9297,
+    "person":"persons"
+  },
+  {
+    "id":"C19",
+    "org":"CTY",
+    "area":"Kerry",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":3058,
+    "person":"persons"
+  },
+  {
+    "id":"C20",
+    "org":"CTY",
+    "area":"Limerick City",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":977,
+    "person":"persons"
+  },
+  {
+    "id":"C21",
+    "org":"CTY",
+    "area":"Limerick",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":2894,
+    "person":"persons"
+  },
+  {
+    "id":"C22",
+    "org":"CTY",
+    "area":"Tipperary North",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":1551,
+    "person":"persons"
+  },
+  {
+    "id":"C23",
+    "org":"CTY",
+    "area":"Tipperary South",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":1715,
+    "person":"persons"
+  },
+  {
+    "id":"C24",
+    "org":"CTY",
+    "area":"Waterford City",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":899,
+    "person":"persons"
+  },
+  {
+    "id":"C25",
+    "org":"CTY",
+    "area":"Waterford",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":1551,
+    "person":"persons"
+  },
+  {
+    "id":"C26",
+    "org":"CTY",
+    "area":"Galway City",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":1679,
+    "person":"persons"
+  },
+  {
+    "id":"C27",
+    "org":"CTY",
+    "area":"Galway",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":3802,
+    "person":"persons"
+  },
+  {
+    "id":"C28",
+    "org":"CTY",
+    "area":"Leitrim",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":654,
+    "person":"persons"
+  },
+  {
+    "id":"C29",
+    "org":"CTY",
+    "area":"Mayo",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":2609,
+    "person":"persons"
+  },
+  {
+    "id":"C30",
+    "org":"CTY",
+    "area":"Roscommon",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":1310,
+    "person":"persons"
+  },
+  {
+    "id":"C31",
+    "org":"CTY",
+    "area":"Sligo",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":1262,
+    "person":"persons"
+  },
+  {
+    "id":"C32",
+    "org":"CTY",
+    "area":"Cavan",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":1394,
+    "person":"persons"
+  },
+  {
+    "id":"C33",
+    "org":"CTY",
+    "area":"Donegal",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":2833,
+    "person":"persons"
+  },
+  {
+    "id":"C34",
+    "org":"CTY",
+    "area":"Monaghan",
+    "gender":"male",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":1230,
+    "person":"persons"
+  },
+    {
+    "id":"C01",
+    "org":"CTY",
+    "area":"Carlow",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":298,
+    "person":"persons"
+  },
+  {
+    "id":"C02",
+    "org":"CTY",
+    "area":"Dublin City",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":8914,
+    "person":"persons"
+  },
+  {
+    "id":"C03",
+    "org":"CTY",
+    "area":"South Dublin",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":3572,
+    "person":"persons"
+  },
+  {
+    "id":"C04",
+    "org":"CTY",
+    "area":"Fingal",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":4165,
+    "person":"persons"
+  },
+  {
+    "id":"C05",
+    "org":"CTY",
+    "area":"DÃºn Laoghaire-Rathdown",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":3057,
+    "person":"persons"
+  },
+  {
+    "id":"C06",
+    "org":"CTY",
+    "area":"Kildare",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":2214,
+    "person":"persons"
+  },
+  {
+    "id":"C07",
+    "org":"CTY",
+    "area":"Kilkenny",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":572,
+    "person":"persons"
+  },
+  {
+    "id":"C08",
+    "org":"CTY",
+    "area":"Laois",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":588,
+    "person":"persons"
+  },
+  {
+    "id":"C09",
+    "org":"CTY",
+    "area":"Longford",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":229,
+    "person":"persons"
+  },
+  {
+    "id":"C10",
+    "org":"CTY",
+    "area":"Louth",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":986,
+    "person":"persons"
+  },
+  {
+    "id":"C11",
+    "org":"CTY",
+    "area":"Meath",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":1796,
+    "person":"persons"
+  },
+  {
+    "id":"C12",
+    "org":"CTY",
+    "area":"Offaly",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":449,
+    "person":"persons"
+  },
+  {
+    "id":"C13",
+    "org":"CTY",
+    "area":"Westmeath",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":596,
+    "person":"persons"
+  },
+  {
+    "id":"C14",
+    "org":"CTY",
+    "area":"Wexford",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":864,
+    "person":"persons"
+  },
+  {
+    "id":"C15",
+    "org":"CTY",
+    "area":"Wicklow",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":1294,
+    "person":"persons"
+  },
+  {
+    "id":"C16",
+    "org":"CTY",
+    "area":"Clare",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":882,
+    "person":"persons"
+  },
+  {
+    "id":"C17",
+    "org":"CTY",
+    "area":"Cork City",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":1204,
+    "person":"persons"
+  },
+  {
+    "id":"C18",
+    "org":"CTY",
+    "area":"Cork",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":3039,
+    "person":"persons"
+  },
+  {
+    "id":"C19",
+    "org":"CTY",
+    "area":"Kerry",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":906,
+    "person":"persons"
+  },
+  {
+    "id":"C20",
+    "org":"CTY",
+    "area":"Limerick City",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":457,
+    "person":"persons"
+  },
+  {
+    "id":"C21",
+    "org":"CTY",
+    "area":"Limerick",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":969,
+    "person":"persons"
+  },
+  {
+    "id":"C22",
+    "org":"CTY",
+    "area":"Tipperary North",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":465,
+    "person":"persons"
+  },
+  {
+    "id":"C23",
+    "org":"CTY",
+    "area":"Tipperary South",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":430,
+    "person":"persons"
+  },
+  {
+    "id":"C24",
+    "org":"CTY",
+    "area":"Waterford City",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":360,
+    "person":"persons"
+  },
+  {
+    "id":"C25",
+    "org":"CTY",
+    "area":"Waterford",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":374,
+    "person":"persons"
+  },
+  {
+    "id":"C26",
+    "org":"CTY",
+    "area":"Galway City",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":642,
+    "person":"persons"
+  },
+  {
+    "id":"C27",
+    "org":"CTY",
+    "area":"Galway",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":925,
+    "person":"persons"
+  },
+  {
+    "id":"C28",
+    "org":"CTY",
+    "area":"Leitrim",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":234,
+    "person":"persons"
+  },
+  {
+    "id":"C29",
+    "org":"CTY",
+    "area":"Mayo",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":736,
+    "person":"persons"
+  },
+  {
+    "id":"C30",
+    "org":"CTY",
+    "area":"Roscommon",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":434,
+    "person":"persons"
+  },
+  {
+    "id":"C31",
+    "org":"CTY",
+    "area":"Sligo",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":504,
+    "person":"persons"
+  },
+  {
+    "id":"C32",
+    "org":"CTY",
+    "area":"Cavan",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":416,
+    "person":"persons"
+  },
+  {
+    "id":"C33",
+    "org":"CTY",
+    "area":"Donegal",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":1105,
+    "person":"persons"
+  },
+  {
+    "id":"C34",
+    "org":"CTY",
+    "area":"Monaghan",
+    "gender":"male",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":298,
+    "person":"persons"
+  },
+  {
+    "id":"C01",
+    "org":"CTY",
+    "area":"Carlow",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":4305,
+    "person":"persons"
+  },
+  {
+    "id":"C02",
+    "org":"CTY",
+    "area":"Dublin City",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":20724,
+    "person":"persons"
+  },
+  {
+    "id":"C03",
+    "org":"CTY",
+    "area":"South Dublin",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":13950,
+    "person":"persons"
+  },
+  {
+    "id":"C04",
+    "org":"CTY",
+    "area":"Fingal",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":12900,
+    "person":"persons"
+  },
+  {
+    "id":"C05",
+    "org":"CTY",
+    "area":"DÃºn Laoghaire-Rathdown",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":6110,
+    "person":"persons"
+  },
+  {
+    "id":"C06",
+    "org":"CTY",
+    "area":"Kildare",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":13475,
+    "person":"persons"
+  },
+  {
+    "id":"C07",
+    "org":"CTY",
+    "area":"Kilkenny",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":8860,
+    "person":"persons"
+  },
+  {
+    "id":"C08",
+    "org":"CTY",
+    "area":"Laois",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":6497,
+    "person":"persons"
+  },
+  {
+    "id":"C09",
+    "org":"CTY",
+    "area":"Longford",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":3362,
+    "person":"persons"
+  },
+  {
+    "id":"C10",
+    "org":"CTY",
+    "area":"Louth",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":7911,
+    "person":"persons"
+  },
+  {
+    "id":"C11",
+    "org":"CTY",
+    "area":"Meath",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":13997,
+    "person":"persons"
+  },
+  {
+    "id":"C12",
+    "org":"CTY",
+    "area":"Offaly",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":6687,
+    "person":"persons"
+  },
+  {
+    "id":"C13",
+    "org":"CTY",
+    "area":"Westmeath",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":6509,
+    "person":"persons"
+  },
+  {
+    "id":"C14",
+    "org":"CTY",
+    "area":"Wexford",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":12876,
+    "person":"persons"
+  },
+  {
+    "id":"C15",
+    "org":"CTY",
+    "area":"Wicklow",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":9044,
+    "person":"persons"
+  },
+  {
+    "id":"C16",
+    "org":"CTY",
+    "area":"Clare",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":10344,
+    "person":"persons"
+  },
+  {
+    "id":"C17",
+    "org":"CTY",
+    "area":"Cork City",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":5214,
+    "person":"persons"
+  },
+  {
+    "id":"C18",
+    "org":"CTY",
+    "area":"Cork",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":33176,
+    "person":"persons"
+  },
+  {
+    "id":"C19",
+    "org":"CTY",
+    "area":"Kerry",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":14047,
+    "person":"persons"
+  },
+  {
+    "id":"C20",
+    "org":"CTY",
+    "area":"Limerick City",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":2539,
+    "person":"persons"
+  },
+  {
+    "id":"C21",
+    "org":"CTY",
+    "area":"Limerick",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":10879,
+    "person":"persons"
+  },
+  {
+    "id":"C22",
+    "org":"CTY",
+    "area":"Tipperary North",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":6439,
+    "person":"persons"
+  },
+  {
+    "id":"C23",
+    "org":"CTY",
+    "area":"Tipperary South",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":7554,
+    "person":"persons"
+  },
+  {
+    "id":"C24",
+    "org":"CTY",
+    "area":"Waterford City",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":2391,
+    "person":"persons"
+  },
+  {
+    "id":"C25",
+    "org":"CTY",
+    "area":"Waterford",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":5818,
+    "person":"persons"
+  },
+  {
+    "id":"C26",
+    "org":"CTY",
+    "area":"Galway City",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":3017,
+    "person":"persons"
+  },
+  {
+    "id":"C27",
+    "org":"CTY",
+    "area":"Galway",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":15764,
+    "person":"persons"
+  },
+  {
+    "id":"C28",
+    "org":"CTY",
+    "area":"Leitrim",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":2875,
+    "person":"persons"
+  },
+  {
+    "id":"C29",
+    "org":"CTY",
+    "area":"Mayo",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":12644,
+    "person":"persons"
+  },
+  {
+    "id":"C30",
+    "org":"CTY",
+    "area":"Roscommon",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":6011,
+    "person":"persons"
+  },
+  {
+    "id":"C31",
+    "org":"CTY",
+    "area":"Sligo",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":4993,
+    "person":"persons"
+  },
+  {
+    "id":"C32",
+    "org":"CTY",
+    "area":"Cavan",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":7230,
+    "person":"persons"
+  },
+  {
+    "id":"C33",
+    "org":"CTY",
+    "area":"Donegal",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":12795,
+    "person":"persons"
+  },
+  {
+    "id":"C34",
+    "org":"CTY",
+    "area":"Monaghan",
+    "gender":"male",
+    "occ":"Skilled Trades Occupations",
+    "num":6092,
+    "person":"persons"
+  },
+    {
+    "id":"C01",
+    "org":"CTY",
+    "area":"Carlow",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":624,
+    "person":"persons"
+  },
+  {
+    "id":"C02",
+    "org":"CTY",
+    "area":"Dublin City",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":7737,
+    "person":"persons"
+  },
+  {
+    "id":"C03",
+    "org":"CTY",
+    "area":"South Dublin",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":3597,
+    "person":"persons"
+  },
+  {
+    "id":"C04",
+    "org":"CTY",
+    "area":"Fingal",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":4522,
+    "person":"persons"
+  },
+  {
+    "id":"C05",
+    "org":"CTY",
+    "area":"DÃºn Laoghaire-Rathdown",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":4165,
+    "person":"persons"
+  },
+  {
+    "id":"C06",
+    "org":"CTY",
+    "area":"Kildare",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":3108,
+    "person":"persons"
+  },
+  {
+    "id":"C07",
+    "org":"CTY",
+    "area":"Kilkenny",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":1206,
+    "person":"persons"
+  },
+  {
+    "id":"C08",
+    "org":"CTY",
+    "area":"Laois",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":996,
+    "person":"persons"
+  },
+  {
+    "id":"C09",
+    "org":"CTY",
+    "area":"Longford",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":416,
+    "person":"persons"
+  },
+  {
+    "id":"C10",
+    "org":"CTY",
+    "area":"Louth",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":1489,
+    "person":"persons"
+  },
+  {
+    "id":"C11",
+    "org":"CTY",
+    "area":"Meath",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":2643,
+    "person":"persons"
+  },
+  {
+    "id":"C12",
+    "org":"CTY",
+    "area":"Offaly",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":832,
+    "person":"persons"
+  },
+  {
+    "id":"C13",
+    "org":"CTY",
+    "area":"Westmeath",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":1069,
+    "person":"persons"
+  },
+  {
+    "id":"C14",
+    "org":"CTY",
+    "area":"Wexford",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":1778,
+    "person":"persons"
+  },
+  {
+    "id":"C15",
+    "org":"CTY",
+    "area":"Wicklow",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":2151,
+    "person":"persons"
+  },
+  {
+    "id":"C16",
+    "org":"CTY",
+    "area":"Clare",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":1632,
+    "person":"persons"
+  },
+  {
+    "id":"C17",
+    "org":"CTY",
+    "area":"Cork City",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":1215,
+    "person":"persons"
+  },
+  {
+    "id":"C18",
+    "org":"CTY",
+    "area":"Cork",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":5186,
+    "person":"persons"
+  },
+  {
+    "id":"C19",
+    "org":"CTY",
+    "area":"Kerry",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":2092,
+    "person":"persons"
+  },
+  {
+    "id":"C20",
+    "org":"CTY",
+    "area":"Limerick City",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":629,
+    "person":"persons"
+  },
+  {
+    "id":"C21",
+    "org":"CTY",
+    "area":"Limerick",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":1622,
+    "person":"persons"
+  },
+  {
+    "id":"C22",
+    "org":"CTY",
+    "area":"Tipperary North",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":795,
+    "person":"persons"
+  },
+  {
+    "id":"C23",
+    "org":"CTY",
+    "area":"Tipperary South",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":1035,
+    "person":"persons"
+  },
+  {
+    "id":"C24",
+    "org":"CTY",
+    "area":"Waterford City",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":508,
+    "person":"persons"
+  },
+  {
+    "id":"C25",
+    "org":"CTY",
+    "area":"Waterford",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":856,
+    "person":"persons"
+  },
+  {
+    "id":"C26",
+    "org":"CTY",
+    "area":"Galway City",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":1080,
+    "person":"persons"
+  },
+  {
+    "id":"C27",
+    "org":"CTY",
+    "area":"Galway",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":2203,
+    "person":"persons"
+  },
+  {
+    "id":"C28",
+    "org":"CTY",
+    "area":"Leitrim",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":360,
+    "person":"persons"
+  },
+  {
+    "id":"C29",
+    "org":"CTY",
+    "area":"Mayo",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":1555,
+    "person":"persons"
+  },
+  {
+    "id":"C30",
+    "org":"CTY",
+    "area":"Roscommon",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":721,
+    "person":"persons"
+  },
+  {
+    "id":"C31",
+    "org":"CTY",
+    "area":"Sligo",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":723,
+    "person":"persons"
+  },
+  {
+    "id":"C32",
+    "org":"CTY",
+    "area":"Cavan",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":765,
+    "person":"persons"
+  },
+  {
+    "id":"C33",
+    "org":"CTY",
+    "area":"Donegal",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":1599,
+    "person":"persons"
+  },
+  {
+    "id":"C34",
+    "org":"CTY",
+    "area":"Monaghan",
+    "gender":"female",
+    "occ":"Managers, Directors and Senior Officials",
+    "num":651,
+    "person":"persons"
+  },
+  {
+    "id":"C01",
+    "org":"CTY",
+    "area":"Carlow",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":1908,
+    "person":"persons"
+  },
+  {
+    "id":"C02",
+    "org":"CTY",
+    "area":"Dublin City",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":29102,
+    "person":"persons"
+  },
+  {
+    "id":"C03",
+    "org":"CTY",
+    "area":"South Dublin",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":10368,
+    "person":"persons"
+  },
+  {
+    "id":"C04",
+    "org":"CTY",
+    "area":"Fingal",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":12731,
+    "person":"persons"
+  },
+  {
+    "id":"C05",
+    "org":"CTY",
+    "area":"DÃºn Laoghaire-Rathdown",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":13552,
+    "person":"persons"
+  },
+  {
+    "id":"C06",
+    "org":"CTY",
+    "area":"Kildare",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":9317,
+    "person":"persons"
+  },
+  {
+    "id":"C07",
+    "org":"CTY",
+    "area":"Kilkenny",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":4338,
+    "person":"persons"
+  },
+  {
+    "id":"C08",
+    "org":"CTY",
+    "area":"Laois",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":3058,
+    "person":"persons"
+  },
+  {
+    "id":"C09",
+    "org":"CTY",
+    "area":"Longford",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":1309,
+    "person":"persons"
+  },
+  {
+    "id":"C10",
+    "org":"CTY",
+    "area":"Louth",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":4580,
+    "person":"persons"
+  },
+  {
+    "id":"C11",
+    "org":"CTY",
+    "area":"Meath",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":7563,
+    "person":"persons"
+  },
+  {
+    "id":"C12",
+    "org":"CTY",
+    "area":"Offaly",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":2628,
+    "person":"persons"
+  },
+  {
+    "id":"C13",
+    "org":"CTY",
+    "area":"Westmeath",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":3559,
+    "person":"persons"
+  },
+  {
+    "id":"C14",
+    "org":"CTY",
+    "area":"Wexford",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":4877,
+    "person":"persons"
+  },
+  {
+    "id":"C15",
+    "org":"CTY",
+    "area":"Wicklow",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":5452,
+    "person":"persons"
+  },
+  {
+    "id":"C16",
+    "org":"CTY",
+    "area":"Clare",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":4984,
+    "person":"persons"
+  },
+  {
+    "id":"C17",
+    "org":"CTY",
+    "area":"Cork City",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":4609,
+    "person":"persons"
+  },
+  {
+    "id":"C18",
+    "org":"CTY",
+    "area":"Cork",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":18621,
+    "person":"persons"
+  },
+  {
+    "id":"C19",
+    "org":"CTY",
+    "area":"Kerry",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":5744,
+    "person":"persons"
+  },
+  {
+    "id":"C20",
+    "org":"CTY",
+    "area":"Limerick City",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":1516,
+    "person":"persons"
+  },
+  {
+    "id":"C21",
+    "org":"CTY",
+    "area":"Limerick",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":6279,
+    "person":"persons"
+  },
+  {
+    "id":"C22",
+    "org":"CTY",
+    "area":"Tipperary North",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":2810,
+    "person":"persons"
+  },
+  {
+    "id":"C23",
+    "org":"CTY",
+    "area":"Tipperary South",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":3129,
+    "person":"persons"
+  },
+  {
+    "id":"C24",
+    "org":"CTY",
+    "area":"Waterford City",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":1579,
+    "person":"persons"
+  },
+  {
+    "id":"C25",
+    "org":"CTY",
+    "area":"Waterford",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":2809,
+    "person":"persons"
+  },
+  {
+    "id":"C26",
+    "org":"CTY",
+    "area":"Galway City",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":4488,
+    "person":"persons"
+  },
+  {
+    "id":"C27",
+    "org":"CTY",
+    "area":"Galway",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":8472,
+    "person":"persons"
+  },
+  {
+    "id":"C28",
+    "org":"CTY",
+    "area":"Leitrim",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":1355,
+    "person":"persons"
+  },
+  {
+    "id":"C29",
+    "org":"CTY",
+    "area":"Mayo",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":5145,
+    "person":"persons"
+  },
+  {
+    "id":"C30",
+    "org":"CTY",
+    "area":"Roscommon",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":2569,
+    "person":"persons"
+  },
+  {
+    "id":"C31",
+    "org":"CTY",
+    "area":"Sligo",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":3051,
+    "person":"persons"
+  },
+  {
+    "id":"C32",
+    "org":"CTY",
+    "area":"Cavan",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":2701,
+    "person":"persons"
+  },
+  {
+    "id":"C33",
+    "org":"CTY",
+    "area":"Donegal",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":6127,
+    "person":"persons"
+  },
+  {
+    "id":"C34",
+    "org":"CTY",
+    "area":"Monaghan",
+    "gender":"female",
+    "occ":"Professional Occupations",
+    "num":2292,
+    "person":"persons"
+  },
+  {
+    "id":"C01",
+    "org":"CTY",
+    "area":"Carlow",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":878,
+    "person":"persons"
+  },
+  {
+    "id":"C02",
+    "org":"CTY",
+    "area":"Dublin City",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":14705,
+    "person":"persons"
+  },
+  {
+    "id":"C03",
+    "org":"CTY",
+    "area":"South Dublin",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":6188,
+    "person":"persons"
+  },
+  {
+    "id":"C04",
+    "org":"CTY",
+    "area":"Fingal",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":7225,
+    "person":"persons"
+  },
+  {
+    "id":"C05",
+    "org":"CTY",
+    "area":"DÃºn Laoghaire-Rathdown",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":6616,
+    "person":"persons"
+  },
+  {
+    "id":"C06",
+    "org":"CTY",
+    "area":"Kildare",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":4795,
+    "person":"persons"
+  },
+  {
+    "id":"C07",
+    "org":"CTY",
+    "area":"Kilkenny",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":1705,
+    "person":"persons"
+  },
+  {
+    "id":"C08",
+    "org":"CTY",
+    "area":"Laois",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":1373,
+    "person":"persons"
+  },
+  {
+    "id":"C09",
+    "org":"CTY",
+    "area":"Longford",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":545,
+    "person":"persons"
+  },
+  {
+    "id":"C10",
+    "org":"CTY",
+    "area":"Louth",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":2016,
+    "person":"persons"
+  },
+  {
+    "id":"C11",
+    "org":"CTY",
+    "area":"Meath",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":3870,
+    "person":"persons"
+  },
+  {
+    "id":"C12",
+    "org":"CTY",
+    "area":"Offaly",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":1122,
+    "person":"persons"
+  },
+  {
+    "id":"C13",
+    "org":"CTY",
+    "area":"Westmeath",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":1439,
+    "person":"persons"
+  },
+  {
+    "id":"C14",
+    "org":"CTY",
+    "area":"Wexford",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":2304,
+    "person":"persons"
+  },
+  {
+    "id":"C15",
+    "org":"CTY",
+    "area":"Wicklow",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":3253,
+    "person":"persons"
+  },
+  {
+    "id":"C16",
+    "org":"CTY",
+    "area":"Clare",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":2065,
+    "person":"persons"
+  },
+  {
+    "id":"C17",
+    "org":"CTY",
+    "area":"Cork City",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":2076,
+    "person":"persons"
+  },
+  {
+    "id":"C18",
+    "org":"CTY",
+    "area":"Cork",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":7738,
+    "person":"persons"
+  },
+  {
+    "id":"C19",
+    "org":"CTY",
+    "area":"Kerry",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":2010,
+    "person":"persons"
+  },
+  {
+    "id":"C20",
+    "org":"CTY",
+    "area":"Limerick City",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":774,
+    "person":"persons"
+  },
+  {
+    "id":"C21",
+    "org":"CTY",
+    "area":"Limerick",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":2262,
+    "person":"persons"
+  },
+  {
+    "id":"C22",
+    "org":"CTY",
+    "area":"Tipperary North",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":1098,
+    "person":"persons"
+  },
+  {
+    "id":"C23",
+    "org":"CTY",
+    "area":"Tipperary South",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":1205,
+    "person":"persons"
+  },
+  {
+    "id":"C24",
+    "org":"CTY",
+    "area":"Waterford City",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":777,
+    "person":"persons"
+  },
+  {
+    "id":"C25",
+    "org":"CTY",
+    "area":"Waterford",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":1161,
+    "person":"persons"
+  },
+  {
+    "id":"C26",
+    "org":"CTY",
+    "area":"Galway City",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":1748,
+    "person":"persons"
+  },
+  {
+    "id":"C27",
+    "org":"CTY",
+    "area":"Galway",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":3184,
+    "person":"persons"
+  },
+  {
+    "id":"C28",
+    "org":"CTY",
+    "area":"Leitrim",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":546,
+    "person":"persons"
+  },
+  {
+    "id":"C29",
+    "org":"CTY",
+    "area":"Mayo",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":2166,
+    "person":"persons"
+  },
+  {
+    "id":"C30",
+    "org":"CTY",
+    "area":"Roscommon",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":1058,
+    "person":"persons"
+  },
+  {
+    "id":"C31",
+    "org":"CTY",
+    "area":"Sligo",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":1172,
+    "person":"persons"
+  },
+  {
+    "id":"C32",
+    "org":"CTY",
+    "area":"Cavan",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":1007,
+    "person":"persons"
+  },
+  {
+    "id":"C33",
+    "org":"CTY",
+    "area":"Donegal",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":2061,
+    "person":"persons"
+  },
+  {
+    "id":"C34",
+    "org":"CTY",
+    "area":"Monaghan",
+    "gender":"female",
+    "occ":"Associate Professional and Technical Occupations",
+    "num":774,
+    "person":"persons"
+  },
+  {
+    "id":"C01",
+    "org":"CTY",
+    "area":"Carlow",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":1784,
+    "person":"persons"
+  },
+  {
+    "id":"C02",
+    "org":"CTY",
+    "area":"Dublin City",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":23167,
+    "person":"persons"
+  },
+  {
+    "id":"C03",
+    "org":"CTY",
+    "area":"South Dublin",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":13444,
+    "person":"persons"
+  },
+  {
+    "id":"C04",
+    "org":"CTY",
+    "area":"Fingal",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":13413,
+    "person":"persons"
+  },
+  {
+    "id":"C05",
+    "org":"CTY",
+    "area":"DÃºn Laoghaire-Rathdown",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":8833,
+    "person":"persons"
+  },
+  {
+    "id":"C06",
+    "org":"CTY",
+    "area":"Kildare",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":9481,
+    "person":"persons"
+  },
+  {
+    "id":"C07",
+    "org":"CTY",
+    "area":"Kilkenny",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":3547,
+    "person":"persons"
+  },
+  {
+    "id":"C08",
+    "org":"CTY",
+    "area":"Laois",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":3054,
+    "person":"persons"
+  },
+  {
+    "id":"C09",
+    "org":"CTY",
+    "area":"Longford",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":1337,
+    "person":"persons"
+  },
+  {
+    "id":"C10",
+    "org":"CTY",
+    "area":"Louth",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":4572,
+    "person":"persons"
+  },
+  {
+    "id":"C11",
+    "org":"CTY",
+    "area":"Meath",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":8444,
+    "person":"persons"
+  },
+  {
+    "id":"C12",
+    "org":"CTY",
+    "area":"Offaly",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":2728,
+    "person":"persons"
+  },
+  {
+    "id":"C13",
+    "org":"CTY",
+    "area":"Westmeath",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":3021,
+    "person":"persons"
+  },
+  {
+    "id":"C14",
+    "org":"CTY",
+    "area":"Wexford",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":5241,
+    "person":"persons"
+  },
+  {
+    "id":"C15",
+    "org":"CTY",
+    "area":"Wicklow",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":5663,
+    "person":"persons"
+  },
+  {
+    "id":"C16",
+    "org":"CTY",
+    "area":"Clare",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":4491,
+    "person":"persons"
+  },
+  {
+    "id":"C17",
+    "org":"CTY",
+    "area":"Cork City",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":3452,
+    "person":"persons"
+  },
+  {
+    "id":"C18",
+    "org":"CTY",
+    "area":"Cork",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":15197,
+    "person":"persons"
+  },
+  {
+    "id":"C19",
+    "org":"CTY",
+    "area":"Kerry",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":4960,
+    "person":"persons"
+  },
+  {
+    "id":"C20",
+    "org":"CTY",
+    "area":"Limerick City",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":1699,
+    "person":"persons"
+  },
+  {
+    "id":"C21",
+    "org":"CTY",
+    "area":"Limerick",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":5030,
+    "person":"persons"
+  },
+  {
+    "id":"C22",
+    "org":"CTY",
+    "area":"Tipperary North",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":2740,
+    "person":"persons"
+  },
+  {
+    "id":"C23",
+    "org":"CTY",
+    "area":"Tipperary South",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":2902,
+    "person":"persons"
+  },
+  {
+    "id":"C24",
+    "org":"CTY",
+    "area":"Waterford City",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":1498,
+    "person":"persons"
+  },
+  {
+    "id":"C25",
+    "org":"CTY",
+    "area":"Waterford",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":2357,
+    "person":"persons"
+  },
+  {
+    "id":"C26",
+    "org":"CTY",
+    "area":"Galway City",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":2662,
+    "person":"persons"
+  },
+  {
+    "id":"C27",
+    "org":"CTY",
+    "area":"Galway",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":6264,
+    "person":"persons"
+  },
+  {
+    "id":"C28",
+    "org":"CTY",
+    "area":"Leitrim",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":1240,
+    "person":"persons"
+  },
+  {
+    "id":"C29",
+    "org":"CTY",
+    "area":"Mayo",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":4662,
+    "person":"persons"
+  },
+  {
+    "id":"C30",
+    "org":"CTY",
+    "area":"Roscommon",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":2584,
+    "person":"persons"
+  },
+  {
+    "id":"C31",
+    "org":"CTY",
+    "area":"Sligo",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":2616,
+    "person":"persons"
+  },
+  {
+    "id":"C32",
+    "org":"CTY",
+    "area":"Cavan",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":2787,
+    "person":"persons"
+  },
+  {
+    "id":"C33",
+    "org":"CTY",
+    "area":"Donegal",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":5597,
+    "person":"persons"
+  },
+  {
+    "id":"C34",
+    "org":"CTY",
+    "area":"Monaghan",
+    "gender":"female",
+    "occ":"Administrative and Secretarial Occupations",
+    "num":2211,
+    "person":"persons"
+  },
+  {
+    "id":"C01",
+    "org":"CTY",
+    "area":"Carlow",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":378,
+    "person":"persons"
+  },
+  {
+    "id":"C02",
+    "org":"CTY",
+    "area":"Dublin City",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":2573,
+    "person":"persons"
+  },
+  {
+    "id":"C03",
+    "org":"CTY",
+    "area":"South Dublin",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":1194,
+    "person":"persons"
+  },
+  {
+    "id":"C04",
+    "org":"CTY",
+    "area":"Fingal",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":1315,
+    "person":"persons"
+  },
+  {
+    "id":"C05",
+    "org":"CTY",
+    "area":"DÃºn Laoghaire-Rathdown",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":798,
+    "person":"persons"
+  },
+  {
+    "id":"C06",
+    "org":"CTY",
+    "area":"Kildare",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":1220,
+    "person":"persons"
+  },
+  {
+    "id":"C07",
+    "org":"CTY",
+    "area":"Kilkenny",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":848,
+    "person":"persons"
+  },
+  {
+    "id":"C08",
+    "org":"CTY",
+    "area":"Laois",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":567,
+    "person":"persons"
+  },
+  {
+    "id":"C09",
+    "org":"CTY",
+    "area":"Longford",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":284,
+    "person":"persons"
+  },
+  {
+    "id":"C10",
+    "org":"CTY",
+    "area":"Louth",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":723,
+    "person":"persons"
+  },
+  {
+    "id":"C11",
+    "org":"CTY",
+    "area":"Meath",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":1249,
+    "person":"persons"
+  },
+  {
+    "id":"C12",
+    "org":"CTY",
+    "area":"Offaly",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":529,
+    "person":"persons"
+  },
+  {
+    "id":"C13",
+    "org":"CTY",
+    "area":"Westmeath",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":575,
+    "person":"persons"
+  },
+  {
+    "id":"C14",
+    "org":"CTY",
+    "area":"Wexford",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":1219,
+    "person":"persons"
+  },
+  {
+    "id":"C15",
+    "org":"CTY",
+    "area":"Wicklow",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":921,
+    "person":"persons"
+  },
+  {
+    "id":"C16",
+    "org":"CTY",
+    "area":"Clare",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":1016,
+    "person":"persons"
+  },
+  {
+    "id":"C17",
+    "org":"CTY",
+    "area":"Cork City",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":502,
+    "person":"persons"
+  },
+  {
+    "id":"C18",
+    "org":"CTY",
+    "area":"Cork",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":3638,
+    "person":"persons"
+  },
+  {
+    "id":"C19",
+    "org":"CTY",
+    "area":"Kerry",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":1442,
+    "person":"persons"
+  },
+  {
+    "id":"C20",
+    "org":"CTY",
+    "area":"Limerick City",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":280,
+    "person":"persons"
+  },
+  {
+    "id":"C21",
+    "org":"CTY",
+    "area":"Limerick",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":1034,
+    "person":"persons"
+  },
+  {
+    "id":"C22",
+    "org":"CTY",
+    "area":"Tipperary North",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":620,
+    "person":"persons"
+  },
+  {
+    "id":"C23",
+    "org":"CTY",
+    "area":"Tipperary South",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":762,
+    "person":"persons"
+  },
+  {
+    "id":"C24",
+    "org":"CTY",
+    "area":"Waterford City",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":311,
+    "person":"persons"
+  },
+  {
+    "id":"C25",
+    "org":"CTY",
+    "area":"Waterford",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":596,
+    "person":"persons"
+  },
+  {
+    "id":"C26",
+    "org":"CTY",
+    "area":"Galway City",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":464,
+    "person":"persons"
+  },
+  {
+    "id":"C27",
+    "org":"CTY",
+    "area":"Galway",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":1334,
+    "person":"persons"
+  },
+  {
+    "id":"C28",
+    "org":"CTY",
+    "area":"Leitrim",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":302,
+    "person":"persons"
+  },
+  {
+    "id":"C29",
+    "org":"CTY",
+    "area":"Mayo",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":1256,
+    "person":"persons"
+  },
+  {
+    "id":"C30",
+    "org":"CTY",
+    "area":"Roscommon",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":517,
+    "person":"persons"
+  },
+  {
+    "id":"C31",
+    "org":"CTY",
+    "area":"Sligo",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":469,
+    "person":"persons"
+  },
+  {
+    "id":"C32",
+    "org":"CTY",
+    "area":"Cavan",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":617,
+    "person":"persons"
+  },
+  {
+    "id":"C33",
+    "org":"CTY",
+    "area":"Donegal",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":1053,
+    "person":"persons"
+  },
+  {
+    "id":"C34",
+    "org":"CTY",
+    "area":"Monaghan",
+    "gender":"female",
+    "occ":"Skilled Trades Occupations",
+    "num":469,
     "person":"persons"
   }
 ]
