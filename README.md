@@ -17,17 +17,23 @@ The population statistics on work/unemployment status by gender.
 Organised by province, county and city/town.
 
 ## How to Query the API
-You can determine the number of people unemployed in a certain county at the following URL:
+You can see the different occupations of people organised by county and gender at the following URL:
 
-*http://popstatsapi.com/occupation/[county]*
+*http://http://127.0.0.1:8888/occupation*
 
-where you replace [county] with the county.
+You can see the different levels of education of people organised by county and gender at the following URL:
+
+*http://http://127.0.0.1:8888/education*
 
 For example, the URL:
 
-*http://popstatsapi.com/occupation/Galway*
+*http://127.0.0.1:8888/occArea/"Galway City"*
 
-will return a list of the population in Galway and their occupations.
+will return a list of the population in Galway and their occupations, arranged by occupation and gender.
+
+*http://127.0.0.1:8888/eduArea/"Galway City"*
+
+will return a list of the population in Galway and their level of education, arranged by level achieved and gender.
 
 ##Example use of the API
 This particular api could be used to check the various levels of highly qualified people in different counties. This could be beneficial to foreign countries looking to set up in Ireland.
