@@ -19,11 +19,11 @@ Organised by province, county and city/town.
 ## How to Query the API
 You can see the different occupations of people organised by county and gender at the following URL:
 
-*http://http://127.0.0.1:8888/occupation*
+*http://127.0.0.1:8888/occupation*
 
 You can see the different levels of education of people organised by county and gender at the following URL:
 
-*http://http://127.0.0.1:8888/education*
+*http://127.0.0.1:8888/education*
 
 For example, the URL:
 
