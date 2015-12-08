@@ -22,6 +22,7 @@ You can see the different occupations of people organised by county and gender a
 *http://127.0.0.1:8888/occupation*
 
 An example of a response would be:
+
     {
 		"id": "C01",
 		"org": "CTY",
@@ -31,6 +32,7 @@ An example of a response would be:
 		"num": 1170,
 		"person": "persons"
 	},
+    
 	{
 		"id": "C02",
 		"org": "CTY",
@@ -46,6 +48,7 @@ You can see the different levels of education of people organised by county and 
 *http://127.0.0.1:8888/education*
 
 An example of a response would be:
+    
     {
 		"id1": "C01",
 		"org": "CTY",
@@ -55,6 +58,7 @@ An example of a response would be:
 		"num1": "391",
 		"pop": "Population aged 15 years and over"
 	},
+    
 	{
 		"id1": "C02",
 		"org": "CTY",
