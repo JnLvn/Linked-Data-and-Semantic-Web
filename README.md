@@ -21,9 +21,49 @@ You can see the different occupations of people organised by county and gender a
 
 *http://127.0.0.1:8888/occupation*
 
+An example of a response would be:
+    {
+		"id": "C01",
+		"org": "CTY",
+		"area": "Carlow",
+		"gender": "male",
+		"occ": "Managers, Directors and Senior Officials",
+		"num": 1170,
+		"person": "persons"
+	},
+	{
+		"id": "C02",
+		"org": "CTY",
+		"area": "Dublin City",
+		"gender": "male",
+		"occ": "Managers, Directors and Senior Officials",
+		"num": 12200,
+		"person": "persons"
+	}
+
 You can see the different levels of education of people organised by county and gender at the following URL:
 
 *http://127.0.0.1:8888/education*
+
+An example of a response would be:
+    {
+		"id1": "C01",
+		"org": "CTY",
+		"area": "Carlow",
+		"gender": "male",
+		"edu": "No Formal Education",
+		"num1": "391",
+		"pop": "Population aged 15 years and over"
+	},
+	{
+		"id1": "C02",
+		"org": "CTY",
+		"area": "Dublin City",
+		"gender": "male",
+		"edu": "No Formal Education",
+		"num1": "2324",
+		"pop": "Population aged 15 years and over"
+	}
 
 For example, the URL:
 
